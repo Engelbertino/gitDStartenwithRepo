@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14162775-a75a-496f-aa38-01dfce135d52" name="Changes" comment="Mein erste Selenium Programm">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Projekt/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UmschaltenzwischenFrames/SwitchinBetweenFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UmschaltenzwischenFrames/SwitchingbetweenPopup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Projekt/Browser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/UmschaltenzwischenFrames/SwitchinBetweenFrames.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/UmschaltenzwischenFrames/SwitchingbetweenPopup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.SwitchinBetweenFrames">
     <configuration name="Browser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -112,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1647613861301</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mein erste Selenium Programm">
+      <created>1660998620489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660998620489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,11 +116,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mein erste Selenium Programm" />
